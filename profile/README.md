@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is the official team catch development organisation.
-You want to be a part of us? Nice, contact us via e-mail: admin@team-catch.de
+You want to be a part of us? => Get in touch with us via e-mail: admin@team-catch.de
 
 <!--
 
